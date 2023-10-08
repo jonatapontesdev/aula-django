@@ -1,6 +1,6 @@
 # #23 Pystack Week 8.0 - Pythonando
 
-![Banner](./aulas/figma.png)
+![Banner](.vitalab/aulas/figma.png)
 
 ## Projeto de uma plataforme de laboratório 👋
 
